@@ -21,6 +21,7 @@ https://judge.softuni.org/Contests/Practice/Index/1699#9
 Да се отпечата най-добрият филм за вас:
 "The best movie for you is {заглавие на филм} with {сума на символите} ASCII sum."
 """
+# ТЕСТ
 
 user_input = input()
 movie_counter = 0
